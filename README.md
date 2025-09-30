@@ -1,2 +1,2 @@
-# MySimpleFormProject
+# form.html
 A simple HTML form project showcasing form elements like input fields, buttons, and validation.
